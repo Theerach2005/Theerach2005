@@ -29,7 +29,7 @@ I really enjoy Web Development, Machine Learning and Computer Security.
 
 * 🤖 Machine Learning (ML)
 * 🛡️ Computer Security
-* 🌐 Website & Webapp Development (Next.js, React, TypeScript)
+* 🌐 Website & Webapp Development (Next.js, Vite, React, TypeScript)
 
 ## 📊 GitHub Stats:
 
