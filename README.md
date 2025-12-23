@@ -33,4 +33,4 @@ I really enjoy Web Development, Machine Learning and Computer Security.
 
 ## 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=false&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theerach2005&layout=compact&theme=dark&hide_border=false&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
