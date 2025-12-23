@@ -1,10 +1,7 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 
-I'm **Theerach Sae-Ngow (Plakim)**. I'm currently a 3rd year student in Computer Engineering at Chulalongkorn University. 
-
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Portfolio&fontSize=40)
-
----
+I'm **Theerach Sae-Ngow (Plakim)**. I'm currently a 3rd year student in Computer Engineering at Chulalongkorn University.
+I really enjoy Web Development, Machine Learning and Computer Security.
 
 ## 💻 Tech Stack:
 
@@ -25,10 +22,8 @@ I'm **Theerach Sae-Ngow (Plakim)**. I'm currently a 3rd year student in Computer
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+## 📚 Currently learning:
 
-## ⭐ Currently learning:
-
-* 🤖 **Machine Learning (ML)**
-* 🛡️ **Computer Security**
-* 🌐 **Website & Webapp Development** (Next.js, Vite, React)
+* 🤖 Machine Learning (ML)
+* 🛡️ Computer Security
+* 🌐 Website & Webapp Development (Next.js, React, TypeScript)
